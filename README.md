@@ -1,9 +1,9 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá! Sou o José Marcelo</h1></summary>
+    <summary><h1 style="display: inline-block">José Marcelo</h1></summary>
 </div>
 <p>
-  Estudante de Desenvolvimento de Software, com ênfase em análise de dados, desenvolvimento web, automações RPA (Robotic Process Automation) e desenvolvimento de IA.
+  Estudante de Desenvolvimento de Software, com ênfase em Cibersegurança, automações RPA (Robotic Process Automation) e desenvolvimento em IA.
 </p>
 <h2>Mais sobre mim:<h2>
   
